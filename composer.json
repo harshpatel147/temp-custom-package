@@ -1,0 +1,19 @@
+{
+    "name": "smiley/user-crud",
+    "description": "user-crud - it is a package for User CRUD Operation",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smiley\\UserCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Harsh",
+            "email": "harsh.microtechos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
