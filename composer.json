@@ -18,5 +18,12 @@
     "require": {
         "php": "^7.3|^8.0",
         "yajra/laravel-datatables-oracle": "^9.18"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Smiley\\UserCrud\\UserCrudServiceProvider"
+            ]
+        }
     }
 }
